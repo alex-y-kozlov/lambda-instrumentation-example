@@ -5,3 +5,5 @@ Example AWS Lambda instrumentation project with versions written in Java, NodeJS
 ## Authors
 
 * **Wayne Brown** - *Initial work* - wayne.brown@appdynamics.com
+
+The workshop docs are published at [appd-serverless.awsworkshop.io](https://appd-serverless.awsworkshop.io/)
